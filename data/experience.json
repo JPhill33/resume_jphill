@@ -1,98 +1,28 @@
 [
     {
-        "role":"Developer",
+        "role":"Co-Founder / Developer",
         "company":"[Cointel Finance](https://www.cointel.finance/)",
-        "summary":"Developed a crypto & NFT aggregation wallet for effective financial modeling of your portfolio.  Aggregated dozens of APIs for wallet integrations to get a holistic views of crypto & NFT portfolios. Coded tax functions to see implications of short & long term terms gains on DeFi assets. Provide scratch made authentication along with Google Single Sign On. Payment integration with Stripe.",
+        "summary":"Co-Founder of crypto & NFT aggregation platform for effective financial modeling of your portfolio. Aggregated APIs so end users can integrate wallets across seven networks to get a holistic view of crypto and NFT portfolios. Created short/long term tax functions in R to estimate tax obligations across wallets. Coded financial models used to track portfolio metrics (benchmark comparisons, risk/reward, volatility analysis, etc.)Built internal flexdashboards/Shiny dashboards in R Markdown to inform business growth and KPIs.",
         "range":"November 2021 - Present",
-        "tech": "Stripe, Google SSO, R Shiny, Python, GCP, Docker"
+        "tech": "R, Python"
     },
     {
-        "role":"Full Stack Developer",
-        "company":"[Pennsylvania State University](https://www.psu.edu/)",
-        "summary":"Contracting part time to build a web application infrasturcture for instructors and students to easily implement computerized adaptive testing.  Technologies include: R Shiny, AWS S3, AWS EC2, Shiny Modules.",
-        "range":"May 2021 - December 2021",
-        "type":"Part-Time",
-        "tech": "R Shiny, Auth0, Modules, AWS, EC2"
+        "role":"Developer",
+        "summary":"Developed arbitrage trading bot on Avalanche network. Used smart contracts to track trading pair prices across exchanges, developed slippage algorithm based on x*y=k AMM pricing model, automatically executed trades via Solidity contract. Integrated node connection via Ankr.",
+        "range":"November 2021 - Present",
+        "tech": "Python, R, R Shiny, Ankr, Chainlink Data Feeds"
     },
     {
-        "role":"R Programmer",
-        "company":"[WarnerMedia](https://www.warnermedia.com/us)",
-        "summary":"Contracting part time to build data pipelines and web applications for business/reporting effciency along with distilling Amazon Prime Video/Netflix data to effectively target new viewers of CNN content. Technologies include: R shiny, AWS S3, Snowflake, Comscore, Rmarkdown",
-        "range":"April 2021 - November 2021",
-        "type":"Part-Time",
-        "tech": "R Shiny, AWS, Comscore, RMarkdown, Snowflake"
+        "role":"Investment Analyst",
+        "company":"[Tower Point Ventures]",
+        "summary":"Managed a portfolio of distressed real estate investments throughout Georgia. Developed cash flow models based on renovation expectations to determine optimal investment deployment timing and amounts.",
+        "range":"February 2021 - November 2021"
     },
     {
-        "role":"R Consultant",
-        "company":"[American Board of Surgeons](https://www.absurgery.org/)",
-        "summary":"Contracted part time to finish a project to enable a verbal exam score submissions for board certification of surgeons. Technologies include: R shiny, AWS S3",
-        "range":"April 2021 - June 2021"
-    },
-    {
-        "role":"R Shiny Developer",
-        "company":"[McAfee](https://mcafee.com/)",
-        "summary":"Contracted to scale and build shiny apps for massive data distillation for model building for enhanced cross sell of products in the McAfee portfolio.",
-        "range":"December 2020 - March 2021",
-        "type":"Contract",
-        "tech": "R Shiny, Azure, Shinyapps.io, httr, Git"
-    },{
-        "role":"R Shiny Developer",
-        "company":"[Coca Cola Beverages Florida](https://cocacolaflorida.com/)",
-        "summary":"Led and coded project to build an operation effciency tool using machine learning to better predict customer value to fairly give promotions on equipment and delivery levels.",
-        "range":"August 2020 - November 2020",
-        "type":"Contract",
-        "tech": "R Shiny, Azure DevOps, Docker, Debian, Git"
-    },
-    {
-        "role":"R Shiny Developer",
-        "company":"[Kellogg](https://www.kelloggs.com/en_US/home.html)",
-        "summary":"Developed modules to select promotional events in order to update a database for the field data cleaning.",
-        "range":"September 2020",
-        "type":"Contract"
-    },
-    {
-        "role":"Data Analystics Consultant",
-        "company":"[Transamerica](https://www.transamerica.com/)",
-        "summary":"Built an R Shiny app integrating Qualtrics and Salesforce data for more effective reporting.",
-        "range":"April 2020 - July 2020",
-        "type":"Contract"
-    },
-    {
-        "role":"R Shiny Developer",
-        "company":"[Ovintiv](https://www.ovintiv.com/)",
-        "summary":"Developed an app to predict oil and determine the profit after taxes via interactive maps and widgets.",
-        "range":"August 2019 - April 2020",
-        "type":"Contract"
-    },
-    {
-        "role":"Data Analytics Consultant",
-        "company":"[Evercommerce](https://www.evercommerce.com/)",
-        "summary":"Established a data analytics function for the parent company of over 30 subsidiaries with Software as a Solution applications for various verticals in the Small/Medium Business space.",
-        "range":"November 2018 - July 2019",
-        "type":"Contract"
-    },
-    {
-        "role":"Senior Market Research Analyst",
-        "company":"[TSYS now Global Payments](https://www.globalpaymentsinc.com/en-ca)",
-        "summary":"Led the development of a newly formed Market Research/Analytics Department within the Merchant Services Division for one of North America’s largest payment processors.",
-        "range":"February 2018 - November 2018"
-    },
-     {
-        "role":"Analyst",
-        "company":"[SKIM Analytical](https://skimgroup.com/)",
-        "summary":"Worked with clients to determine strategies for product development innovation, product pricing and media campaigns using consumer decision behavior analysis.  As project lead, directed work on 8 projects generating over $500,000 in revenue, writing proposals, building interactive dashboards, and presentations of findings.",
-        "range":"January 2017 - February 2018"
-    },
-    {
-        "role":"Analytics Specialist",
-        "company":"[Vizeum of Dentsu Aegis](https://www.dentsu.com/us/en)",
-        "summary":"Responsibilities included pulling, cleaning, analyzing, and presenting secondary data findings for Fox and Fox Sports, Discover Student Loans, Sonos, and Fox Theatrical.",
-        "range":"June 2017 - February 2018"
-    },
-    {
-        "role":"Analyst",
-        "company":"[Nielsen](https://www.nielsen.com/us/en/)",
-        "summary":"Worked as part of the Analytics Team onsite at Nestle’s North American Head Quarters.  Conducted multidimensional analysis across four categories, including frozen foods, beverage, ice cream, and confections.",
-        "range":"December 2015 - February 2016"
+        "role":"Senior Analyst",
+        "company":"[Infinity Capital Partners](https://infinityfunds.com/)",
+        "summary":"Oversaw investment and operational due diligence efforts for the firm, assisted in portfolio management of the Infinity suite of products. Investment universe included hedge funds (multi-strategy, long/short equity, distressed), private equity, distressed assets, music royalties/copyrights and cryptocurrencies. Nominated to join investment committee prior to departure.",
+        "range":"January 2017 - January 2021",
+        "tech": "Excel, eVestment, RiskMetrics - MSCI"
     }
 ]

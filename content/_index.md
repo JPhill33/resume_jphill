@@ -8,4 +8,4 @@ sitemap:
   priority: 1
 title: Home
 ---
-Data Science practitioner primarily with R & Python to develop software on a variety of platforms including AWS & Azure web application scaling.
+Data Science practitioner developing functional code primarily with R. Extensive experience as an alternatives investment analyst with esoteric asset classes.

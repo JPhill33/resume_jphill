@@ -1,5 +1,5 @@
-title = "A Majestic Resume"
-baseURL = "https://upbeat-swartz-7f78a9.netlify.app/"
+title = "Josh Phillips Resume"
+baseURL = "https://resume-joshphillips.netlify.app/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -8,12 +8,12 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Puerto Rico"
-email = "matt@apprazv.com"
+address = "Atlanta, GA"
+email = "joshuataylorphillips@gmail.com"
 favicon = "/favicon.ico"
-firstName = "Matt"
-lastName = "Majestic"
-#phone = "1-706-575-9416"
+firstName = "Josh"
+lastName = "Phillips"
+#phone = "404-895-9095"
 profileImage = "img/mm_gh_small.png"
 showEducation = true
 showExperience = true
@@ -29,11 +29,11 @@ showSkills = true
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/matthew-majestic/"
+link = "www.linkedin.com/in/josh-phillips2022"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/mattmajestic/"
+link = "https://github.com/JPhill33"
 name = "GitHub"
 
 [outputs]

@@ -1,29 +1,29 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "SDLC","R","Python","RESTful APIs","Data Engineering"]
+      "skills":[ "R","Python","RESTful APIs","Data Engineering"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "R","Python","git","linux","R Shiny"]
+      "skills":[ "R","Python","Flexdashboard","R Shiny", "Github"]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Azure DevOps","Github","Azure"]
+      "skills":[ "Github"]
   },
   {
-      "grouping":"Data Management",
+      "grouping":"Investment Analysis",
       "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
+        {"name":"Cryptocurrency Project Research"},
+        {"name":"Alternative Asset Diligence"},
         {"name":"Apache Spark"}
       ]
   },
   {
-    "grouping":"Containers & Cloud",
+    "grouping":"Investment Analysis",
       "skills":[
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Linux","link":"https://bosh.io"}
+          {"name":"Cryptocurrency Project Research"},
+          {"name":"Alternative Asset Diligence"},
+          {"name":"Financial Models"}
       ]
   }
 ]
