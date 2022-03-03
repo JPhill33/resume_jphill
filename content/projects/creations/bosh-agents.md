@@ -4,7 +4,7 @@ description: R Shiny dashboard that pulls information from CoinGecko API to mode
 fact: ""
 featured: true
 image: /img/aafb-agent-ids-match-bamboo.webp
-link: https://github.com/JPhill33/Example-Dashboard
+link: https://github.com/JPhill33/Example-Dashboard/tree/master
 tags:
 - R
 - R Shiny
