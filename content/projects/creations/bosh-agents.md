@@ -1,18 +1,15 @@
 ---
 date: "2020-02-11T12:41:05-05:00"
-description: TEST TEST R Shiny app to predict revenue using Machine Learning for effective pricing to current and future merchants.
+description: R Shiny dashboard that pulls information from CoinGecko API to model trending coins, returns and portfolio hypotheticals.
 fact: ""
 featured: true
 image: /img/aafb-agent-ids-match-bamboo.webp
-link: https://github.com/mattmajestic
+link: https://github.com/JPhill33/Example-Dashboard
 tags:
-- DevOps
 - R
 - R Shiny
-- Azure VM
-- Linux
-- Docker
-title: Service Segmentation for Coca Cola Beverages Florida
+- RESTful API
+title: Trending Cryptocurrency Dashboard
 ---
 
-R Shiny app to predict revenue using Machine Learning for effective pricing to current and future merchants.
+R Shiny dashboard that pulls information from CoinGecko API to model trending coins, returns and portfolio hypotheticals.
