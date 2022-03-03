@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "R","Python","RESTful APIs","Data Engineering"]
+      "skills":[ "R","Python","RESTful APIs"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[ "R","Python","Flexdashboard","R Shiny", "Github"]
