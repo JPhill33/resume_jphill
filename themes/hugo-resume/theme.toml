@@ -11,8 +11,8 @@ features = ["social","mobile","projects","responsive","qr-code","cms"]
 min_version = "0.62"
 
 [author]
-  name = "Matt Majestic"
-  homepage = "https://www.majesticdatasolutions.com/"
+  name = "Josh Phillips"
+  homepage = "https://cointel.finance/"
 
 
 # If porting an existing theme
