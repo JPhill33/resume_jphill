@@ -1,6 +1,6 @@
 ---
 date: "2020-02-11T12:41:05-05:00"
-description: R Shiny app to predict revenue using Machine Learning for effective pricing to current and future merchants.
+description: TEST TEST R Shiny app to predict revenue using Machine Learning for effective pricing to current and future merchants.
 fact: ""
 featured: true
 image: /img/aafb-agent-ids-match-bamboo.webp
