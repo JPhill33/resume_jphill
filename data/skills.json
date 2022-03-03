@@ -11,14 +11,6 @@
       "skills":[ "Github"]
   },
   {
-      "grouping":"Investment Analysis",
-      "skills":[
-        {"name":"Cryptocurrency Project Research"},
-        {"name":"Alternative Asset Diligence"},
-        {"name":"Apache Spark"}
-      ]
-  },
-  {
     "grouping":"Investment Analysis",
       "skills":[
           {"name":"Cryptocurrency Project Research"},
