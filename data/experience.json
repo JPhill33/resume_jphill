@@ -2,7 +2,7 @@
     {
         "role":"Co-Founder / Developer",
         "company":"[Cointel Finance](https://www.cointel.finance/)",
-        "summary":"Co-Founder of crypto & NFT aggregation platform for effective financial modeling of your portfolio. Aggregated APIs so end users can integrate wallets across seven networks to get a holistic view of crypto and NFT portfolios. Created short/long term tax functions in R to estimate tax obligations across wallets. Coded financial models used to track portfolio metrics (benchmark comparisons, risk/reward, volatility analysis, etc.)Built internal flexdashboards/Shiny dashboards in R Markdown to inform business growth and KPIs.",
+        "summary":"Co-Founder of crypto & NFT aggregation platform for effective financial modeling of your portfolio. Aggregated APIs so end users can integrate wallets across seven networks to get a holistic view of crypto and NFT portfolios. Created short/long term tax functions in R to estimate tax obligations across wallets. Coded financial models used to track portfolio metrics (benchmark comparisons, risk/reward, volatility analysis, etc.). Built internal flexdashboards/Shiny dashboards in R Markdown to inform business growth and KPIs.",
         "range":"November 2021 - Present",
         "tech": "R, Python"
     },
