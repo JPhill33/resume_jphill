@@ -1,8 +1,0 @@
-[
-    {
-        "role":"Developer",
-        "summary":"Developed arbitrage trading bot on Avalanche network. Used smart contracts to track trading pair prices across exchanges, developed slippage algorithm based on x*y=k AMM pricing model, automatically executed trades via Solidity contract. Integrated node connection via Ankr.",
-        "range":"November 2021 - Present",
-        "tech": "Python, R, R Shiny, Ankr, Chainlink Data Feeds"
-    }
-]
