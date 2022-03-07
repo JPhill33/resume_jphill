@@ -8,4 +8,4 @@ sitemap:
   priority: 1
 title: Home
 ---
-Data Science practitioner developing functional code primarily with R. Extensive experience as an alternatives investment analyst with esoteric asset classes.
+Data Science practitioner developing functional code primarily with R and interactive dashboards with R Shiny. I have extensive experience as an alternatives investment analyst, specifically with esoteric asset classes.
